@@ -1,4 +1,7 @@
+data/raw/
+*.dta
+*.DTA
+KEKR8CDT/
 .Rproj.user
 .Rhistory
-.RData
 .Ruserdata
